@@ -26,5 +26,16 @@ I am passionate about building automated security tools, conducting deep-dive lo
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dnielfird&show_icons=true&theme=tokyonight" alt="Danniel's GitHub Stats" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+### 🎯 Active Training Status
+<p align="center">
+  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe Badge" />
+  </a>
 </p>
